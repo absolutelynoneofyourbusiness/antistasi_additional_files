@@ -27,35 +27,7 @@ class EditorData
 	};
 };
 binarizationWanted=0;
-addons[]=
-{
-	"A3_Ui_F",
-	"A3_Structures_F_Exp_Industrial_DieselPowerPlant_01",
-	"A3_Structures_F_Mil_Cargo",
-	"A3_Structures_F_Ind_Transmitter_Tower",
-	"cba_xeh",
-	"A3_Structures_F_Exp_Military_ContainerBases",
-	"A3_Structures_F_Exp_Military_Fortifications",
-	"A3_Structures_F_Exp_Industrial_Port",
-	"A3_Boat_F_Exp_Boat_Transport_02",
-	"A3_Boat_F_Exp_Scooter_Transport_01",
-	"A3_Boat_F_Gamma_Boat_Civil_01",
-	"A3_Boat_F_Gamma_Boat_Civil_04",
-	"A3_Boat_F_Exp_Boat_Armed_01",
-	"A3_Boat_F_Exp_Boat_Transport_01",
-	"A3_Boat_F_Boat_Transport_01",
-	"A3_Boat_F_Boat_Armed_01",
-	"A3_Modules_F_Multiplayer",
-	"A3_Structures_F_Ind_AirPort",
-	"A3_Structures_F_Exp_Naval_Piers",
-	"A3_Weapons_F_Ammoboxes",
-	"A3_Structures_F_Mil_Flags",
-	"A3_Structures_F_Civ_InfoBoards",
-	"A3_Structures_F_Civ_Camping",
-	"A3_Modules_F",
-	"A3_Characters_F",
-	"A3_Modules_F_Hc"
-};
+addons[]={};
 class AddonsMetaData
 {
 	class List
